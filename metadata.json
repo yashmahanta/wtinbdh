@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of BSc Math Exam Assistant",
+  "description": "Professional AI-powered assistant for BSc Mathematics examinations, providing structured, marks-based solutions from question images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
